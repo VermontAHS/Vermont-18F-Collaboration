@@ -10,4 +10,7 @@ Answer the following questions:
 - How will we measure if this is successful (Acceptance Criteria)?
 - What are the Concrete Next Steps?
 
-(+ Assign a Lead to this Work, Add to Project Board)
+Then: 
+- Assign a Lead to this Work
+- Add to Project Board in Flight
+- Apply any appropriate labels
